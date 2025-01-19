@@ -1,7 +1,7 @@
 
 
 🎮 Game App: [Tic_Tac_Toe]
-Welcome to [My_Game_Web]!
+Welcome to [My_Web_Game]!
 An engaging and fun game designed to entertain and challenge players of all ages.
 
 🚀 Features:
